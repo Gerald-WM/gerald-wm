@@ -26,7 +26,6 @@ I build mobile apps using Flutter, React Native, and Native Android. I currently
 * **Kotlin:** Deepening language knowledge and native API depth.
 * **AI Workflows:** Implementing agentic workflows to streamline work and automate tasks.
 * **AI Integration:** Implementing AI features directly into mobile applications.
-* **Dart Internals:** Researching compiler behavior and runtime internals.
 
 ### What I Plan To Do
 * **Testing:** Writing Unit and Widget tests.

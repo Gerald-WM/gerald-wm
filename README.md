@@ -17,7 +17,7 @@ I build mobile apps using Flutter, React Native, and Native Android. I currently
 
 
 ### What I Can Do
-* **Build:** Develop apps from scratch for iOS and Android.
+* **Build:** Develop apps for iOS and Android.
 * **Manage:** State management using BLoC or Provider.
 * **Integrate:** Connect apps to Auth, Databases, and Push Notifications.
 * **Deploy:** Handle the App Store and Google Play upload process.
@@ -29,8 +29,8 @@ I build mobile apps using Flutter, React Native, and Native Android. I currently
 * **Dart Internals:** Researching compiler behavior and runtime internals.
 
 ### What I Plan To Do
-* **Testing:** Writing comprehensive Unit and Widget tests.
-* **Architecture:** Mastering app structures for large-scale enterprise projects.
+* **Testing:** Writing Unit and Widget tests.
+* **Architecture:** Mastering app structures for large-scale projects.
 * **Native internals:** Diving deeper into React Native
 
 

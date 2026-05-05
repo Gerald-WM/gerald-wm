@@ -16,9 +16,5 @@ I'm a passionate mobile developer currently honing my craft at the **University 
 
 ---
 
-| My GitHub Stats | Top Languages |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Gerald-WM&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-WM&layout=compact&theme=radical) |
-
 ### Reach Me
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B4fV9yKj0RTGgSsUFrqSt3A%3D%3D)
